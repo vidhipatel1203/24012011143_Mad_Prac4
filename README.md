@@ -86,6 +86,18 @@ The application also provides a simple and modern Material Design interface for 
 - **TimePickerDialog**
 - **Material Design Components**
 
+---
+
+# Student Details
+
+**Enrollment No:** 24012011143
+
+**Practical:** 04
+
+**Subject:** Mobile Application Development (MAD)
+
+---
+
 ## Project Structure
 
 ```text
